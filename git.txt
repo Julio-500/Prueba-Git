@@ -1,0 +1,35 @@
+//********************************************************
+
+APRENDE GIT en 25 Minutos ✅ INCLUYE SUBIR A GITHUB [2022]
+
+https://www.youtube.com/watch?v=9lxHUQcP-nE
+
+
+
+https://github.com/Julio-500/Prueba-Git
+***********************************************************//
+
+
+$ git config --global user.name "Julio C"
+
+$ git config --global user.email ie.jcp0@gmail.com
+
+$ git init    Creará un nuevo repositorio local GIT. 
+              Usando git init [nombre del proyecto] También puedes crear un repositorio dentro de un directorio especificando el nombre del proyecto.
+
+$ git status    Lo usas para que muestre la lista de archivos que has cambiado,
+                junto con archivos que serán preparados y confirmados.
+
+$ git add  .\ejemplo.html     Lo usas para agregar archivos al área de de preparación.
+
+$ git add .        Agrega todo lo que esté sin seguimiento..
+
+$ git rm --cached .\otra\algun.html    Quita un arch de la lista
+
+$ git commit -m "MENSAJE"            Lo usas para crear un cambio que se guardará en el directorio git.
+
+$ git diff .\index.html            Muestra las diferencias de archivos que no se han enviado aún al
+                                    área de espera
+$ git checkout                     Nos permite crear ramas y navegar entre ellas.
+
+17
