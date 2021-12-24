@@ -42,3 +42,6 @@ $ git diff .\index.html            Muestra las diferencias de archivos que no se
 $ git checkout                     Nos permite crear ramas y navegar entre ellas.
 
 17 /****/******/******************////**********///"#
+
+
+24/12/21 8:00..................
